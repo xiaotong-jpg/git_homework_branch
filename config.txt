@@ -1,4 +1,0 @@
-version=1.0
-author=yourname
-B3 different modification 3
-C4 modification 3
